@@ -1,0 +1,18 @@
+Dependencies:
+Applications:
+picom
+sxhkd
+sl-status (this is installed through a make clean install of the sl-status (I used Arcos default)
+termite (terminal emulator)
+alacritty (another terminal emulator)
+dmenu
+thunar
+gsimplecal
+xfce4-taskmanager
+
+Fonts:
+Mononoki Nerd Font
+fontawesome
+Hack
+Joypixels
+
